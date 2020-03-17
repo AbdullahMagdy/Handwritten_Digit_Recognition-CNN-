@@ -13,7 +13,7 @@ Matplotlib <br>
 Pycharm <br>
 
 # To Run the model
-After downloading the repo , you can unzip the zipped files  <br> then run this command.<br>
+After downloading the repo , you can unzip the (MNIST_dataset) file  <br> then run this command.<br>
 py main.py
 
 
